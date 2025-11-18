@@ -1,0 +1,1 @@
+export default function Jurnal(){return <div class='p-8'><h2 class='text-3xl font-semibold mb-4'>Daftar Jurnal</h2><p>Belum ada data.</p></div>}

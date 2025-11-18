@@ -1,0 +1,1 @@
+export default function Galeri(){return <div class='p-8'><h2 class='text-3xl font-semibold mb-4'>Galeri</h2><p>Belum ada foto.</p></div>}

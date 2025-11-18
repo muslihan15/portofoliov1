@@ -1,0 +1,1 @@
+export default function Kontak(){return <div class='p-8'><h2 class='text-3xl font-semibold mb-4'>Kontak</h2><p>Email: your@email.com</p></div>}

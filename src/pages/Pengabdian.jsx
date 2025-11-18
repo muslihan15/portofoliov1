@@ -1,0 +1,1 @@
+export default function Pengabdian(){return <div class='p-8'><h2 class='text-3xl font-semibold mb-4'>Pengabdian Masyarakat</h2><p>Belum ada data.</p></div>}
